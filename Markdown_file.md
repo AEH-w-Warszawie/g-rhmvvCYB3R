@@ -1,6 +1,6 @@
 ###*WHOAMI*
 
-**Yusif Rahimov, Student ID - 53206**
+**~$: Yusif Rahimov, Student ID - 53206**
 
 
 
