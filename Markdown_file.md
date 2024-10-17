@@ -1,5 +1,5 @@
-##INFORMATION ABOUT MYSELF
-<span style="color: red;">Yusif Rahimov, Student ID - 53206</span>
+##WHOAMI
+**Yusif Rahimov, Student ID - 53206**
 
 I am from Azerbaijan, my hometown is Baku.
 Azerbaijan, the Land of Fire, is a captivating blend of rich culture, 
